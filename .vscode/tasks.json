@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "excute",
+            "type": "shell",
+            "command": "${workspaceFolder}/_builds/bin/main",
+            "problemMatcher": [],
+            "group": "build"
+		},
+		{
+            "label": "CMake Configure",
+            "type": "shell",
+            "command": "cmake -H. -B_builds",
+            "problemMatcher": [],
+            "group": "build"
+        },
+        {
+            "label": "CMake Build",
+            "type": "shell",
+            "command": "cmake --build _builds",
+            "problemMatcher": [],
+            "group": "build"
+        }
+	]
+}
