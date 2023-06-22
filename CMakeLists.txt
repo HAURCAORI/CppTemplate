@@ -12,7 +12,7 @@ project(
 #set(CMAKE_VERBOSE_MAKEFILE ON)
 
 # <Compiler Options>
-set(CMAKE_CXX_COMPILER gcc)
+set(CMAKE_CXX_COMPILER g++)
 add_compile_options(-Wall -O2 -std=c++17 -lpthread)
 #add_link_options(-Wl,--copy-dt-needed-entries)
 
