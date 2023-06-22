@@ -1,7 +1,0 @@
-/home/haurcaori/projects/cppTest/_builds/CMakeFiles/edit_cache.dir
-/home/haurcaori/projects/cppTest/_builds/CMakeFiles/rebuild_cache.dir
-/home/haurcaori/projects/cppTest/_builds/lib/CMakeFiles/edit_cache.dir
-/home/haurcaori/projects/cppTest/_builds/lib/CMakeFiles/rebuild_cache.dir
-/home/haurcaori/projects/cppTest/_builds/src/CMakeFiles/main.dir
-/home/haurcaori/projects/cppTest/_builds/src/CMakeFiles/edit_cache.dir
-/home/haurcaori/projects/cppTest/_builds/src/CMakeFiles/rebuild_cache.dir
